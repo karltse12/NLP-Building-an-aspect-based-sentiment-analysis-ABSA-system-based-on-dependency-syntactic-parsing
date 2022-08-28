@@ -2,11 +2,11 @@
 
 This project is to build an aspect-based sentiment analysis (ABSA) system based on syntactic parsing. The aspect-based sentiment analysis try to analyse the sentiment, e.g., positive, negative and neutral, toward a given aspect (aspect term). In order to complete this project, steps are: 
 
-1) reading data from the dataset file (.xml) to dictionary and performing text pre-processing such as converting characters into lower case characters and removing stop words etc., 
+1) Reading data from the dataset file (.xml) to dictionary and performing text pre-processing such as converting characters into lower case characters and removing stop words etc., 
 
-2) perform parsing such as dependency parsing on the sentence 
+2) Perform parsing such as dependency parsing on the sentence 
 
-3) designing rules based on syntactic parsing results for 3 sentiments 
+3) Designing rules based on syntactic parsing results for 3 sentiments 
 
 4) Calculating the Precision and Recall for each rule for evaluation. A Jupyter Notebook with Python kernel is used to work on this project.
 
